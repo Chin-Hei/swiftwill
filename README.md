@@ -1,2 +1,2 @@
-# swiftwill.github.io
+# swiftwill
 Everything Swift &amp; iOS
